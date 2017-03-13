@@ -65,7 +65,7 @@ body {
 
     #wrapper {
       text-align:center;
-      background:white/*url('http://bene.com/pics/office-furniture/executive/bene/al/Al-Management-02.jpg') no-repeat*/;
+      background:white;
       height:0; /* altura cero */
       background-size:100%;
       /*display: block;*/
