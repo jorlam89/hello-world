@@ -2,6 +2,8 @@
 just another repository
 <!DOCTYPE html>
 <html>
+<link rel="stylesheet" href="./style.css" type="text/css" media="all" />
+<body>
 <div class="container-fluid" >
   <header>
     <nav class="navegar"><img id="icono" src="http://estaticos.muyinteresante.es/uploads/images/article/566560d25bafe8a163dc683a/inteligencia-robots_0.jpg" alt="JRSOFTWARE ©"></img>
@@ -73,4 +75,5 @@ just another repository
   </div>
 </div>
 <footter id="foot"><p>JRSOFTWARE © 2017. All Rights Reversed</p></footter>
+</body>
 </html>
